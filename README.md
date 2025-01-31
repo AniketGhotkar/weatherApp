@@ -1,6 +1,6 @@
 # Weather App
 
-**DevDetective** is a simple weather application that fetches real-time weather data from the OpenWeatherMap API based on the user's location or search input. The app provides weather details such as temperature, humidity, wind speed, and cloudiness. The user can either grant location access or search for a specific city.
+**WeatherApp** is a simple weather application that fetches real-time weather data from the OpenWeatherMap API based on the user's location or search input. The app provides weather details such as temperature, humidity, wind speed, and cloudiness. The user can either grant location access or search for a specific city.
 
 ## Features:
 - **Automatic Location Detection**: Uses the browser's geolocation feature to fetch the weather based on the user's current location.
